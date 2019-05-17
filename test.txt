@@ -1,1 +1,4 @@
-Kirill Vadimovi
+<<<<<<< HEAD
+Kirill Vadimovich
+
+>>>>>>> newdev
